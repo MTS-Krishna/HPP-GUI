@@ -75,20 +75,13 @@ git clone https://github.com/MTS-Krishna/HPP-GUI.git
 cd HPP-GUI
 ```
 
-#### 🐍 2. Create Virtual Environment
-
-```bash
-python -m venv venv
-source venv/bin/activate   # or `venv\Scripts\activate` on Windows
-```
-
-#### 📦 3. Install Dependencies
+#### 📦 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-#### 🎯 4. Run the App
+#### 🎯 3. Run the App
 
 ```bash
 streamlit run app.py
