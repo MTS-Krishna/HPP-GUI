@@ -30,7 +30,6 @@ The final model is deployed as a **Streamlit web app**, where users can input ho
 
 ```
 HPP-GUI/
-│
 ├── app.py                    # Streamlit application
 └── data/
     ├── train.csv
